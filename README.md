@@ -13,7 +13,7 @@
 
 The final piece of using _statements_ to control the flow of Ruby execution is
 **repetition**. While the **default sequence** requires Ruby to execute top-down,
-left to right, we've seen that we can skip chunks of code using the _selection_
+left to right, we've seen that we can skip chunks of xcode using the _selection_
 statement `if...else...end`. In some ways the reverse of _selection_ is
 _repetition_: "Don't move on," we tell Ruby, "do something else until I say
 it's OK to move on." The most fundamental _repetition_ construct, present in
